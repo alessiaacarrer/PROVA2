@@ -1,1 +1,2 @@
-to import scipy
+to import healp
+to import matplotlib
