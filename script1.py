@@ -1,1 +1,1 @@
-import numpy
+to import scipy
