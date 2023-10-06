@@ -1,2 +1,1 @@
-to import healp
-to import matplotlib
+to import healpy
